@@ -1,0 +1,5 @@
+export enum Stacks {
+  AUTH_STACK = 'AUTH_STACK',
+  SPLASH_STACK = 'SPLASH_STACK',
+  MAIN_STACK = 'MAIN_STACK',
+}
